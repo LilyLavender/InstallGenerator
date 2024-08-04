@@ -8,6 +8,7 @@ Works for:
 - ACMD (game, effect, sound, expression)
 - OPFF & OPWF
 - Statuses
+
 Does not work for:
 - Hooks
 - Anything else
