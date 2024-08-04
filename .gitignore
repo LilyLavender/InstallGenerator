@@ -1,0 +1,4 @@
+.vscode
+*.vsix
+out
+src/test/
